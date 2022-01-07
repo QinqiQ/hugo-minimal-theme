@@ -3,7 +3,7 @@ advanced:
   css_style: null
   css_class: fullscreen
 widget: blank
-widget_id: recent notes
+widget_id: "1"
 headless: true
 weight: 10
 title: 👋 Qi Qin is a graduate student at the USYD in Shanghai.
