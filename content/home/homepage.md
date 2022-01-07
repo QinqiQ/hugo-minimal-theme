@@ -1,68 +1,98 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: blank  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-
-title: "👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai."
+advanced:
+  css_style: null
+  css_class: fullscreen
+widget: blank
+widget_id: recent notes
+headless: true
+weight: 10
+title: 👋 Qi Qin is a graduate student at the USYD in Shanghai.
 subtitle: ""
-
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
   background:
-    # Apply a background color, gradient, or image.
-    #   Uncomment (by removing `#`) an option to apply it.
-    #   Choose a light or dark text color by setting `text_color_light`.
-    #   Any HTML color name or Hex value is valid.
-    # color: navy
-    # gradient_start: DarkGreen
-    # gradient_end: ForestGreen
-    image: hello.jpg  # Name of image in `static/media/`.
+    image: hello7.jpg
     image_darken: 0.4
     image_size: cover
     image_position: right
     image_parallax: true
     text_color_light: true
-advanced:
-  css_style:
-  css_class: fullscreen
 ---
+​
 
 ## My Mission
 
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+This is a personal website created by randomly modifying the template and the information does not have any authenticity.
+
+
 
 ## Specialties
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+Securities Practitioner Qualification Certificate
 
-## Experience
+Language Skills: Chinese (native), English (CET 6; DET 105; PTE 61)
 
-### Tidbit Games
-#### Chief Data Officer • Jan 2015 - Current • Shanghai
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+National Computer Rank Examination level-2, frequent user of Wind, EBSCO, INFORMS, Web of Science, MS Office, SPSS, EViews, R, Python, Tableau, QCA software, Citespace, Incite
 
 
-### AI Soup
-#### Research Manager • Jan 2010 - Jan 2015 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+## Work Experience
+
+### ShanghaiTech University
+
+Research Assistant • Aug 2018 - Aug 2021 • Shanghai
+
+School of Entrepreneurship and Management (2018.08-2021.03)
+
+School of Life Science and Technology (2021.03- 2021.08)
+
+* **Research Assistant**
+
+Mainly complete paper collection and collation, project data cleansing and analysis, case materials collection and collation, assist PI organizing academic activities, participate in academic lectures and forums, etc., and cooperate with the research work of the research team as a whole
+
+* **Teaching Assistant**
+
+In the fall semester of 2018, served as teaching assistants of the course“Quality 101”, “Entrepreneurial Leadership”and the second Youth Entrepreneurship Camp lecture. The courses were 98 hours in total and involved 194 people. The main work duty includes teaching content and tools support
+
+* **Administrative Assistant**
+
+The main task is to complete the reimbursement and procurement of the research team, assist in the daily work of the Quality China project, assist the PI organization in organizing activities, collect, modify and organize temporary materials
+
+
+
+## Internship
+
+### **Shanghai Kingdee Network Tech. Company Limited**
+
+HR Intern • Jan 2018 - Mar 2018 • Shanghai
+
+### **Industrial & Commercial Bank of China** 
+
+HR Intern • Aug 2016 - Aug 2016 • Xuzhou
+
+### **Industrial & Commercial Bank of China**
+
+Lobby Manager Intern • Jun 2016 - Aug 2016 • Xuzhou
+
+
 
 ## Education
 
-### Tsinghua University
-#### PhD AI • Jan 2005 - Jan 2010 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### The Univeristy of Sydney
+
+Master of Data Science • Feb 2022 - Jul 2023 • Beijing
+
+### China University of Mining and Technology
+
+Bachelor in FinanceI • Jun 2014 - Jun 2018 • Xuzhou China
+
 
 
 ## Get in Touch
 
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名  
+[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)\
+{{< icon name="weixin" pack="fab" >}}Matsuko  
 
 ## Credits
 
